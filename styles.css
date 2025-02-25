@@ -9,7 +9,7 @@ header {
     font-size: 2.8rem;
     font-weight:bold;
     text-align: center;
-    cursor:default;
+    cursor:wait;
     user-select:none;
 }
 
