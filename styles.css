@@ -1,13 +1,13 @@
 
 body {
-    background-color: #bdc2d8;
+    background-color: #f05107;
     color:#1c1c31;
 }
 
 header {
     margin-top:50px;
     font-size: 2.8rem;
-    font-weight:bold;
+    font-weight:700px;
     text-align: center;
     cursor:pointer;
     user-select:none;
@@ -27,7 +27,7 @@ div {
 }
 
 img {
-    border-radius:5px;
+    border-radius:100%;
 }
 
 ::selection {
